@@ -30,15 +30,15 @@ With materials at the ready, there was one final step prior to preparing for mas
 
 Our research team performed a deep product search across all markets, and of course no one had come up with this.
 
-~~i raced around all the online retailers to obtain all the necessary materials and tools~~ Luckily, ZeroZipMFG - as the massively well funded and equipped multi-national manufacturing conglomerate that it is - was well prepared and ready to undertake this new project.
+Luckily, ZeroZipMFG - as the massively well funded and equipped multi-national manufacturing conglomerate that it is - was well prepared and ready to undertake this new project.
 
 ## Product Release
 
-ZeroZipMFG is proud to announce that production of the above pictured holster is now in full swing ~~oh god no please help me~~ and will soon be available for purchase from our online marketplace ~~online marketplace? what?~~ 
+ZeroZipMFG is proud to announce that production of the above pictured holster is now in full swing and will soon be available for purchase from our online [marketplace.](https://github.com/ZeroZipMFG/hardware/edit/main/zz_toolholsters/docs/description.md) 
 
-~~you don't need to buy anything, ZeroZipMFG's repositories will always be completely free and under open licensing, so you can make the holster yourself! (though I wouldn't mind a coffee here and there, I sorely need it.) (detailed documentation and instructions for this project coming soon, and more projects in the pipeline)~~
+~~There is not currently any marketplace, however, ZeroZipMFG will sell these and other products in the future. You don't need to buy anything though, these repositories will always be completely free and under open licensing, so you can make any of our products yourself! (detailed documentation and instructions for this project coming soon, and more projects in the pipeline)~~
 
 >[!WARNING]
->ZeroZipMFG maintains zero responsibility for loss of limb or life in the event of the inevitable. Make use of this data at your own risk. [Buy our product](https://github.com/ZeroZipMFG)
+>ZeroZipMFG maintains zero responsibility for loss of limb or life in the event of the inevitable. Make use of this data at your own risk. [Buy our product](https://github.com/ZeroZipMFG/hardware/edit/main/zz_toolholsters/docs/description.md)
 
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
