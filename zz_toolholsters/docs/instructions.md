@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-    <img src="../../zerozip_logo_final.svg" />
+    <img src=".././zerozip_logo_final.svg" />
   </kbd>
 </div>
 <div align="center">
