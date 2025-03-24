@@ -1,6 +1,6 @@
 <img src="../../zerozip_logo_final.svg" />
 
-# Custom fit Kydex Impact Driver Holster
+# Custom Kydex Impact Driver Holster
 
 <img src=".././images/IMG_2704.jpg" />
 
@@ -40,7 +40,7 @@ Man I was stoked! This thing is awesome, lightweight, sturdy, easy to draw and s
 
 ## Product Release
 
-ZeroZipMFG's lead designer and manufacturing specialist, Ben Hammer, is excited to release this product - along with all design documentation and instructions - very very soon. If you are interested in making one for yourself, watch this repo to be updated when further updates drop! If you would rather purchase a finished holster, ready to use, keep an eye out for the soon to launch [Etsy Store]() where you can do just that.
+ZeroZipMFG's lead designer and manufacturing specialist, Ben Hammer, is excited to release this product - along with all design documentation and instructions - very very soon. If you are interested in making one for yourself, watch this repo to be updated when further updates drop! If you would rather purchase a finished holster, ready to use, keep an eye out for the soon to launch [Etsy Store](https://github.com/ZeroZipMFG/hardware/blob/main/zz_toolholsters/docs/zz_holster-desc-latest.md) where you can do just that.
 
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
 
