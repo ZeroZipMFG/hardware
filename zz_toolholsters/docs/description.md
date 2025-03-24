@@ -8,7 +8,7 @@
   </kbd>
 </div>
 
-Holster pictured above was designed and crafted specifically for the Milwaukee M12 2553-20 Impact Driver
+Holster pictured above was designed and manufactured specifically for the Milwaukee M12 2553-20 Impact Driver
 
 ## Product Background
 
