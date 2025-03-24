@@ -8,7 +8,7 @@ Holster pictured above handmade for the Milwaukee M12 2553-20 Impact Driver
 
 ## Product Background
 
-After many years in the trades ([click here]() for details on my background) I had found a few pain points with how I carried my tools.
+After many years in the trades ([click here](https://github.com/ZeroZipMFG/team/blob/main/benhammer.md) for details on my background) I had found a few pain points with how I carried my tools.
 
 One of the biggest issues was my mini-impact driver. The thing was constantly floating around to different parts of my toolbelt, ending up in different pouches, blocking easy access to other tools, and causing unnecessary strain on my back when it was stored in its normal spot in the left pouch (reaching your right hand across your body and down to your left hip 100s of times per day can't be good for your back in the longrun) 
 
