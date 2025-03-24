@@ -4,7 +4,7 @@
 
 <div align="center">
   <kbd>
-    <img src=".././images/IMG_2704.jpg" />
+    <img src=".././images/zz_holster.jpg" />
   </kbd>
 </div>
 
