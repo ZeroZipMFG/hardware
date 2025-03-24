@@ -2,11 +2,7 @@
 
 # Custom fit Kydex Impact Driver Holster
 
-<div align="center">
-  <kbd>
-    <img src=".././images/IMG_2704.jpg" />
-  </kbd>
-</div>
+<img src=".././images/IMG_2704.jpg" />
 
 Holster pictured above was designed and manufactured specifically for the Milwaukee M12 2553-20 Impact Driver
 
