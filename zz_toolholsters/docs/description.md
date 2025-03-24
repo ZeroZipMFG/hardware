@@ -22,7 +22,7 @@ We knew we had found our new stomping ground.
 
 First, we attempted manufacturing our holsters with very thick veg-tan leather. Very thick was necessary so we could get a snug fit by wet-forming. This was... Not bad. Our product research and development team will revisit and refine this product in the future. 
 
-Along with leather, ZeroZipMFG has easy access to many materials ~~easy access, what in the hell are you talking about~~ one of those being Kydex thermoform plastic.
+Along with leather, ZeroZipMFG has easy access to many materials, one of those being Kydex thermoform plastic.
 
 This is an absolutely excellent material for this application. It (along with other brands of thermoform plastics) has been in use for a long time in firearm holster and blade sheath manufacturing.
 
