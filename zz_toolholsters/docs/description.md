@@ -34,11 +34,11 @@ Luckily, ZeroZipMFG - as the massively well funded and equipped multi-national m
 
 ## Product Release
 
-ZeroZipMFG is proud to announce that production of the above pictured holster is now in full swing and will soon be available for purchase from our online [marketplace.](https://github.com/ZeroZipMFG/hardware/edit/main/zz_toolholsters/docs/description.md) 
+ZeroZipMFG is proud to announce that production of the above pictured holster is now in full swing and will soon be available for purchase from our online [marketplace.](https://github.com/ZeroZipMFG/hardware/blob/main/zz_toolholsters/docs/description.md) 
 
 ~~There is not currently any marketplace, however, ZeroZipMFG will sell these and other products in the future. You don't need to buy anything though, these repositories will always be completely free and under open licensing, so you can make any of our products yourself! (detailed documentation and instructions for this project coming soon, and more projects in the pipeline)~~
 
 >[!WARNING]
->ZeroZipMFG maintains zero responsibility for loss of limb or life in the event of the inevitable. Make use of this data at your own risk. [Buy our product](https://github.com/ZeroZipMFG/hardware/edit/main/zz_toolholsters/docs/description.md)
+>ZeroZipMFG maintains zero responsibility for loss of limb or life in the event of the inevitable. Make use of this data at your own risk. [Buy our product](https://github.com/ZeroZipMFG/hardware/blob/main/zz_toolholsters/docs/description.md)
 
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
