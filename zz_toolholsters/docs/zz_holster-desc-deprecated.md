@@ -1,4 +1,4 @@
-Deprecated (See new [here]())
+Deprecated (See new [here](https://github.com/ZeroZipMFG/hardware/blob/main/zz_toolholsters/docs/zz_holster-desc-latest.md))
 
 <img src="../../zerozip_logo_final.svg" />
 
