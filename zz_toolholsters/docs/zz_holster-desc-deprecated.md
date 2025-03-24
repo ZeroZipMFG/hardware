@@ -1,6 +1,6 @@
 Deprecated (See new [here](https://github.com/ZeroZipMFG/hardware/blob/main/zz_toolholsters/docs/zz_holster-desc-latest.md))
 
-<img src="../../zerozip_logo_final.svg" />
+<img src="https://github.com/ZeroZipMFG/branding/blob/main/zerozip_logo_final.svg" />
 
 # Custom fit Kydex Impact Driver Holster
 
