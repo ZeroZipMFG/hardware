@@ -1,4 +1,4 @@
-<img src="../../zerozip_logo_final.svg" />
+<img src="https://github.com/ZeroZipMFG/branding/blob/main/zerozip_logo_final.svg" />
 
 # Custom Kydex Impact Driver Holster
 
