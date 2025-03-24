@@ -1,8 +1,4 @@
-<div align="center">
-  <kbd>
-    <img src="../../zerozip_logo_final.svg" />
-  </kbd>
-</div>
+<img src="../../zerozip_logo_final.svg" />
 
 # Custom fit Kydex Impact Driver Holster
 
@@ -44,3 +40,5 @@ ZeroZipMFG is proud to announce that production of the above pictured holster is
 
 >[!WARNING]
 >ZeroZipMFG maintains zero responsibility for loss of limb or life in the event of the inevitable. Make use of this data at your own risk. [Buy our product](https://github.com/ZeroZipMFG)
+
+Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
