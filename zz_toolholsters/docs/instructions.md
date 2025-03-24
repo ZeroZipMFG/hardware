@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <kbd>
-    <img src="../../images/IMG_2704.jpg" />
+    <img src=".././images/IMG_2704.jpg" />
   </kbd>
 </div>
 
