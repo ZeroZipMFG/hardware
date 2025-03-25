@@ -40,7 +40,7 @@ Man I was stoked! This thing is awesome, lightweight, sturdy, easy to draw and s
 
 ## Product Release
 
-ZeroZipMFG's maker, Ben Hammer, is excited to release this product - along with all design documentation and instructions - very very soon. If you are interested in making one for yourself, watchlist this repo to be updated when further info drops! If you aren't interested in making one yourself, and would like to help fund ZeroZipMFG so Ben can make these for you, keep an eye out for the soon to launch [Crowdfunding campaign](https://github.com/ZeroZipMFG/hardware/blob/main/zz_toolholsters/docs/zz_holster-desc-latest.md), where you can do just that!
+ZeroZipMFG's maker, Ben Hammer, is excited to release this product - along with all design documentation and instructions - very very soon. If you are interested in making one for yourself, watchlist this repo to be updated when further info drops! If you aren't interested in making one yourself, and would like to help fund ZeroZipMFG so Ben can make these for you, keep an eye out for the soon to launch [crowdfunding campaign](https://github.com/ZeroZipMFG/hardware/blob/main/zz_toolholsters/docs/zz_holster-desc-latest.md), where you can do just that!
 
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
 
